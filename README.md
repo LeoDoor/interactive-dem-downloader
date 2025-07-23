@@ -52,10 +52,6 @@ streamlit run DEM_python.py
 
 This application uses the [OpenTopography Global DEM API](https://portal.opentopography.org/apidocs/) to download SRTM GL3 (30m resolution) data.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License.
